@@ -24,7 +24,7 @@ Throughout this course you will learn key concepts needed to efficiently manage 
 
 ---  
 
-While you can get through this course having no exposure to the cloud, it helps to have a basic understanding of the followin concepts:  
+While you can get through this course having no exposure to the cloud, it helps to have a basic understanding of the following concepts:  
 
 * Cloud Platforms and What they are  
 
@@ -32,10 +32,24 @@ While you can get through this course having no exposure to the cloud, it helps 
 
 * What a website is  
 
-* Know what a database is  
+* What a database is  
 
-* Basic Powershell is encouraged
+* Basic Powershell is encouraged, but not required.
 
 * Commmand Line Interface
 
 * GIT or Similar Source Control technology
+
+---  
+
+Tools you will definitely need for this course are:
+  
+* Powershell v5  
+
+* Notepad++ or Visual Studio Code (both are free I recommend VSCode)
+
+* Azure Powershell Cmdlets
+
+* Azure Subscription (You can get a free one)
+
+* Firefox, Chrome, Edge. NOT Internet Explorer
