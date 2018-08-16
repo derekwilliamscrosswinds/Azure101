@@ -1,1 +1,0 @@
-# Welcome to Week 8 of the Microsoft Azure Essentials Course!

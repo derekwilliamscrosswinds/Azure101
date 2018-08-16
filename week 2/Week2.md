@@ -1,1 +1,0 @@
-# Welcome to Week 2 of the Microsoft Azure Essentials Course!
